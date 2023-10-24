@@ -1,7 +1,4 @@
-# helloapp
-our policy
-ataruodev2003 プライバシーポリシー
-
+# helloapp ataruodev2003 プライバシーポリシー
 
 第三者に個人を特定できる情報を提供することはありません。
 
